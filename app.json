@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "BEFT",
+    "slug": "beft-phone-finder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.beft.phonefinder",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
