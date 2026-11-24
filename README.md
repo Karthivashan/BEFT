@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BEFT — Offline Hybrid Phone Finder
 
 A React Native + Expo Android starter application using your selected BEFT palette:
@@ -68,3 +69,6 @@ npx expo export --platform android
 ## Platform notes
 
 Android permissions and background execution rules vary by OS release and manufacturer. BLE discovery is not precise distance measurement. Sound monitoring requires explicit microphone permission and a compliant foreground service; it cannot be guaranteed under every locked-screen or battery-optimisation condition.
+=======
+# BEFT
+>>>>>>> db3baf7517006db9309b466793ab17ca6c8780d3
